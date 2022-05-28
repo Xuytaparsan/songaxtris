@@ -11,7 +11,7 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 start_text = """
 👋 Salam [{}](tg://user?id={}),
 
-\n\nMən  🎸Musiqi yükləmə botuyam[🎶](https://telegra.ph/file/3fa46c1a37dbe898d6eba.jpg)
+\n\nMən  🎸Musiqi yükləmə botuyam[🎶](https://te.legra.ph/file/f1a1a5a9c6294765f267f.jpg)
 
 Sahibim @Vusaliwww 🧑‍💻
 
