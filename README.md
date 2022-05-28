@@ -11,14 +11,14 @@ Bot : [Song Pro Bot 🧚‍](https://t.me/SongProBot)
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [SongProBot  🎻](https://t.me/SongProBot) 💃🏻
+Demo : [MusiqiYuklemeBot  🎻](http://t.me/MusiqiYuklemeBot) 💃🏻
 
 Easy To Deploy 🤗
 
 # Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
+[![Deploy](https://te.legra.ph/file/62aaaa15c65511531cab0.jpg)](https://heroku.com/deploy?template=https://github.com/Xuytaparsan/songaxtris.git)
 # DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xuytaparsan/songaxtris.git)
 
 ## Group
 You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
