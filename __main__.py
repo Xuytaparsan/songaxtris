@@ -13,9 +13,9 @@ start_text = """
 
 \n\nMən  🎸Musiqi yükləmə botuyam[🎶](https://telegra.ph/file/3fa46c1a37dbe898d6eba.jpg)
 
-Sahibim @ABISHOV_27 🤖
+Sahibim @Vusaliwww 🤖
 
-Axtardığın mahnının adını mənə göndər... 😍🥰🤗
+Axtardığın mahnının adını mənə göndər... ⚡
 
 Nümunə. ```/song İfrat Heyif```
 """
@@ -36,9 +36,9 @@ async def start(client, message):
     name = message.from_user["first_name"]
     if message.chat.type == "private":
         btn = InlineKeyboardMarkup(
-           [[InlineKeyboardButton(text="Rəsmi Qrup 👬", url="http://t.me/darkchatgroup12"),
+           [[InlineKeyboardButton(text="Rəsmi Qrup 👬", url="https://t.me/AzeSohbetGurupu"),
              InlineKeyboardButton(
-                        text="Botu qrupa əlavə et 🤗", url="http://t.me/SongProBot?startgroup=true"
+                        text="Botu qrupa əlavə et 🎉", url="http://t.me/cGuesSongBot?startgroup=true"
                     )
                 ]
             ]
@@ -54,10 +54,10 @@ async def help(client, message):
     if message.from_user["id"] == OWNER_ID:
         await message.reply(owner_help)
         return ""
-    text = "İndi axtardığın mahnının adını mənə göndər ... 😍🥰🤗\n /song (mahnı adı) 🥳"
+    text = "İndi axtardığın mahnının adını mənə göndər ... 🔥\n /song (mahnı adı) 🥳"
     await message.reply(text)
 
 OWNER_ID.append(1492186775)
 app.start()
-LOGGER.info("Tam təhlükəsiz bot🤗🤗🤗")
+LOGGER.info("Tam təhlükəsiz bot.⚡")
 idle()
